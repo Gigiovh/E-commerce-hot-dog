@@ -1,13 +1,14 @@
 
+<backgrou
 <div align="center">
 <img src="img/loguis-removebg-preview.png" width="200px">
 <h1 align="center">E-commerce para empresas de fast food</h1>
 
 
-<p>Este projeto web tem como objeivo divulgar, facilitar e melhorar o trabalho para atrair mais clientes para redes de<span style="color:#ffb301"> fast food.</span></p></div>
+<p>Este projeto web tem como objeivo divulgar, facilitar e melhorar o trabalho para atrair mais clientes para redes de<span style="color:#ffb301"> fast food. 😉</span></p></div>
 
 <h3 style="color: #e4a002">Paleta de cores</h3>
- <img src="https://github.com/Gigiovh/Gym/blob/main/img/paleta%20do%20site.png" width="450px">
+ <img src="https://github.com/Gigiovh/E-commerce-hot-dog/blob/main/img/paleta.png" width="450px">
 <h3>Linguagens utilizadas</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
