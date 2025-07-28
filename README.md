@@ -1,5 +1,4 @@
 
-<backgrou
 <div align="center">
 <img src="img/loguis-removebg-preview.png" width="200px">
 <h1 align="center">E-commerce para empresas de fast food</h1>
